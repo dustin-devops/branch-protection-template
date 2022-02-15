@@ -1,3 +1,3 @@
-# branch-protection-test
+# branch-protection-template
 
 test
